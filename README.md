@@ -11,12 +11,11 @@ I have worked with CMM (<strong>Renishaw/DUO Bravo, FARO, Hexagon, LaserGauge</s
 <h2><strong><b>Programming experience 🐱‍💻</b></strong></h2>
 I have experience in programming on <strong>Fortran77, Basic, VBA, Python, LISP and HTML.</strong><br>
 Interested in <strong>C#, JavaScript, Java.</strong><br>
-<strong>I am currently actively studying Python.</strong><br>
+<strong>I am currently actively studying <a href="https://github.com/Volcolak13?tab=repositories">Python</a>.</strong><br>
 
-![github](https://img.shields.io/badge/GITHUB-Volcolak13-brightgreen)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<h2><strong><b>How to reach me 📫</b></strong></h2>
 
-- 📫 How to reach me ...
+<a href="mailto:Volcolak@gmail.com&body=Hi there, I get your email from GitHub profile?subject=GitHub user request"> <img src="https://github.com/Volcolak13/Volcolak13/blob/main/pngegg.png"> </a>
 
 <!---
 Volcolak13/Volcolak13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
