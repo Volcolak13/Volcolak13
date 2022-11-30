@@ -13,6 +13,16 @@ I have experience in programming on <strong>Fortran77, Basic, VBA, Python, LISP 
 Interested in <strong>C#, JavaScript, Java.</strong><br>
 <strong>I am currently actively studying <a href="https://github.com/Volcolak13?tab=repositories">Python</a>.</strong><br>
 
+<h2><strong><b>Achievements 🥇</b></strong></h2>
+<strong>
+• Finally pushed the 747-8/787 airplane into sky.<br>
+• Participated in the development of UAV Orion.<br>
+• The incorporation of my automatic data processing has saved hundreds of man-hours for Renault/AutoVaz facilities.<br>
+• Took part in creation of new Duster/Arkana/Kaptur programs.<br>
+• I wrote several CAD modules for a corporate website.<br>
+
+</strong>
+
 <h2><strong><b>How to reach me 📫</b></strong></h2>
 
 <a href="mailto:Volcolak@gmail.com&body=Hi there, I get your email from GitHub profile?subject=GitHub user request"> <img src="https://github.com/Volcolak13/Volcolak13/blob/main/pngegg.png"> </a>
