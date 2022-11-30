@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Volcolak13
+<strong>- 👋 Hi, I’m @Volcolak13</strong>
 - 👀 I’m interested in Python, C#, JavaScript, Java
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (not yet)
