@@ -20,8 +20,30 @@ Interested in <strong>C#, JavaScript, Java.</strong><br>
 • The incorporation of my automatic data processing has saved hundreds of man-hours for Renault/AutoVaz facilities.<br>
 • Took part in creation of new Duster/Arkana/Kaptur programs.<br>
 • I wrote several CAD modules for a corporate website.<br>
-
 </strong>
+
+<h2><strong><b>My Tech Stack 🦾</b></strong></h2>
+
+<p alighn="left" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/vscode.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/vscode.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/github.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/github.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/git.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/git.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Kali.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Kali.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/ubuntu.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/ubuntu.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/python.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/python.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/vba.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/vba.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/lisp.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/lisp.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Fortran.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Fortran.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+</p>
 
 <h2><strong><b>How to reach me 📫</b></strong></h2>
 
