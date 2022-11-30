@@ -25,24 +25,27 @@ Interested in <strong>C#, JavaScript, Java.</strong><br>
 <h2><strong><b>My Tech Stack 🦾</b></strong></h2>
 
 <p alighn="left" dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/vscode.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/vscode.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/vscode.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/vscode.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/github.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/github.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/github.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/github.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/git.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/git.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/git.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/git.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Kali.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Kali.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/Kali.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/Kali.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/ubuntu.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/ubuntu.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/ubuntu.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/ubuntu.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/python.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/python.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/python.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/python.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/vba.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/vba.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/Fortran.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/Fortran.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/lisp.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/lisp.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/HTML5.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/HTML5.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Fortran.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Fortran.png" width="50" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/vba.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/vba.png" width="50" style="max-width: 100%;"></a>
 &nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/lisp.png"><img src="https://github.com/Volcolak13/Volcolak13/blob/main/Icons/lisp.png" width="50" style="max-width: 100%;"></a>
+&nbsp;
+
 </p>
 
 <h2><strong><b>How to reach me 📫</b></strong></h2>
